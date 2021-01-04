@@ -7,4 +7,4 @@
 - Doom-modeline
 - Centaur-tabs
 
-[alt file](https://github.com/youssefsahli/emacs-file/img/screenshot.png)
+![screenshot](https://github.com/youssefsahli/emacs-file/img/screenshot.png)
