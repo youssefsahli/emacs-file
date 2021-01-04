@@ -1,5 +1,4 @@
-# emacs-file
-
+* Emacs Configuration
 - Straight Package Manager & Use-package
 - Lua & Fennel
 - Racket & Scribble
