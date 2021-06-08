@@ -18,10 +18,6 @@
   (add-hook 'racket-mode-hook      #'racket-unicode-input-method-enable)
   (add-hook 'racket-repl-mode-hook #'racket-unicode-input-method-enable))
 
-(use-package sublime-themes
-  :straight t
-  :config (load-theme 'odersky t))
-
 (use-package scribble-mode
   :straight t)
 
